@@ -1,0 +1,10 @@
+Line 75: Class MSWinsockLib.Winsock of control udpPeerA was not a loaded control class.
+Line 102: Class KCPOCXLibCtl.Kcp of control Kcp1 was not a loaded control class.
+Line 78: The property name _ExtentX in udpPeerA is invalid.
+Line 79: The property name _ExtentY in udpPeerA is invalid.
+Line 80: The property name _Version in udpPeerA is invalid.
+Line 81: The property name Protocol in udpPeerA is invalid.
+Line 82: The property name RemoteHost in udpPeerA is invalid.
+Line 83: The property name RemotePort in udpPeerA is invalid.
+Line 84: The property name LocalPort in udpPeerA is invalid.
+Line 104: The property name OleObjectBlob in Kcp1 is invalid.
